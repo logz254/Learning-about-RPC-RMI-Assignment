@@ -57,6 +57,3 @@ fruit-service-engine
 ## Usage
 - Use the client application to perform various tasks related to fruit prices.
 - The client will communicate with the server via RMI to execute tasks and retrieve results.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
