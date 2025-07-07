@@ -37,7 +37,7 @@ fruit-service-engine
 │   └── webapp
 │       └── WEB-INF
 │           └── web.xml
-├── pom.xml
+│
 └── README.md
 ```
 
