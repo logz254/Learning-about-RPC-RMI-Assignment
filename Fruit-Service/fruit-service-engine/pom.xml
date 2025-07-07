@@ -23,16 +23,11 @@
             <version>4.0.1</version>
             <scope>provided</scope>
         </dependency>
-        <!-- RMI is included in JDK, no separate dependency needed -->
-        
-        <!-- Optional: Add JSON processing for servlet communication -->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
             <version>2.15.2</version>
         </dependency>
-        
-        <!-- Optional: Add logging -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
